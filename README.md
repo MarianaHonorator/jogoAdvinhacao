@@ -1,2 +1,2 @@
 # jogoAdvinhaçao
-Programa de um jogo de advinhação 
+Programa de um jogo de advinhação. 
